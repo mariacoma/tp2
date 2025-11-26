@@ -1,2 +1,4 @@
 mesa
 silla
+cómoda
+cama
